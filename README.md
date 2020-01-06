@@ -1,3 +1,3 @@
 # PerimeterAssignment
 perimeters
-text: !Perimeter_Assignment_Output.png
+Perimeter_Assignment_Output.png
